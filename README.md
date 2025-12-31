@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h2 align="left">Hi 👋! My name is Vedant Yeola and I'm a Software Developer from Pune, India.</h2>
+<h2 align="left">Hi 👋! My name is Vedant Yeola and I'm a Software Developer | Cloud & DevOps Enthusiast from Pune, India.</h2>
 
 ---
 
