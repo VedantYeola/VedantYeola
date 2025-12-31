@@ -50,7 +50,6 @@
 ---
 
 ### 📊 GitHub Statistics
-### 📊 GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VedantYeola&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=VedantYeola&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
