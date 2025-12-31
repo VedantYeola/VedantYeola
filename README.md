@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h2 align="left">Hi 👋! My name is <b>Vedant Yeola</b> and I'm a <b>Software Developer | Cloud & DevOps Enthusiast</b></h2>
+<h2 align="left">Hi 👋! My name is <b>Vedant Yeola</b> and I'm a <b>Software Developer | Cloud & DevOps Enthusiast.</b></h2>
 ---
 
 ### 🔭 Personal Information & Goals
