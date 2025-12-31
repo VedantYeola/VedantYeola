@@ -73,4 +73,4 @@
 </div>
 
 <br clear="both">
-<img align="right" height="120" src="https://i.imgflip.com/65efzo.gif" />
+<!-- <img align="right" height="120" src="https://i.imgflip.com/65efzo.gif" /> -->
