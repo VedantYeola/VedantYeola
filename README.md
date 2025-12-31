@@ -50,7 +50,6 @@
 ---
 
 ### 📊 GitHub Statistics
-### 📊 GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VedantYeola&show_icons=true&theme=dracula&count_private=true" height="170" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VedantYeola&layout=compact&theme=dracula&langs_count=6" height="170" alt="languages graph" />
