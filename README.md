@@ -4,7 +4,13 @@
   </a>
 </div>
 
-<h2 align="left">Hi 👋! My name is Vedant Yeola and I'm a Software Developer | Cloud & DevOps Enthusiast from Pune, India.</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77333&width=435&lines=Software+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
+<h2 align="left">Hi 👋! My name is <b>Vedant Yeola</b> and I'm a <b>Software Developer | Cloud & DevOps Enthusiast</b> from Pune, India.</h2>
 
 ---
 
