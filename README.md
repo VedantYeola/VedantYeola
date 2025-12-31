@@ -9,14 +9,23 @@
 ---
 
 ### 🔭 Personal Information & Goals
-- [cite_start]🔭 **I’m currently working on:** [Scalable-GO-API](https://github.com/VedantYeola/Scalable-GO-API.git) [cite: 56, 58]
-- [cite_start]🌱 **I’m currently learning:** **FastAPI, Kubernetes, and Golang** [cite: 33, 24, 29]
-- [cite_start]👯 **I’m looking to collaborate on:** [AI-Trip-Builder](https://ai-trip-planner-web-smoky.vercel.app) or [AI-MOCKER](https://ai-mocker-nine.vercel.app) [cite: 46, 51]
-- [cite_start]🤝 **I’m looking for help with:** Cloud Infrastructure and Scalability [cite: 41]
-- [cite_start]👨‍💻 **All of my projects are available at:** [https://github.com/VedantYeola](https://github.com/VedantYeola) 
-- [cite_start]💬 **Ask me about:** DevOps, AWS, React, Python, and Next.js [cite: 13, 14, 17, 32, 41]
-- [cite_start]📫 **How to reach me:** [vedantyeola16@gmail.com](mailto:vedantyeola16@gmail.com) [cite: 39]
-- [cite_start]⚡ **Fun fact:** I am a certified Generative AI trainee and AWS Cloud Practitioner [cite: 64, 65]
+- 🔭 **I’m currently working on:** [Scalable-GO-API](https://github.com/VedantYeola/Scalable-GO-API.git)
+- 🌱 **I’m currently learning:** **FastAPI, Kubernetes, and Golang**
+- 👯 **I’m looking to collaborate on:** [AI-Trip-Builder](https://ai-trip-planner-web-smoky.vercel.app) or [AI-MOCKER](https://ai-mocker-nine.vercel.app)
+- 🤝 **I’m looking for help with:** Cloud Infrastructure and Scalability
+- 👨‍💻 **All of my projects are available at:** [https://github.com/VedantYeola](https://github.com/VedantYeola)
+- 💬 **Ask me about:** DevOps, AWS, React, Python, and Next.js
+- 📫 **How to reach me:** [vedantyeola16@gmail.com](mailto:vedantyeola16@gmail.com)
+- ⚡ **Fun fact:** I am a certified Generative AI trainee and AWS Cloud Practitioner
+
+---
+
+### 🐍 Contribution Activity
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VedantYeola/VedantYeola/output/snake.svg" alt="Snake animation" />
+</div>
+<br/>
 
 ---
 
@@ -32,23 +41,11 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
-  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="aws logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="35" alt="jenkins logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="terraform logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo" />
 </div>
 
 ---
@@ -76,8 +73,4 @@
 </div>
 
 <br clear="both">
-
-### 🐍 Contribution Activity
-<img src="https://raw.githubusercontent.com/VedantYeola/VedantYeola/output/snake.svg" alt="Snake animation" />
-
 <img align="right" height="120" src="https://i.imgflip.com/65efzo.gif" />
