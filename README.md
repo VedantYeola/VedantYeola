@@ -1,4 +1,4 @@
-<!-- <p align="center">
+ <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77333&center=true&vCenter=true&width=435&lines=Hi+I'm+Vedant+Yeola;Software+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
@@ -73,7 +73,7 @@
 </div>
 
 <br clear="both">
-<!-- <img align="right" height="120" src="https://i.imgflip.com/65efzo.gif" /> --> -->
+<!-- <img align="right" height="120" src="https://i.imgflip.com/65efzo.gif" /> --> 
 
 
 
@@ -82,67 +82,3 @@
 
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F77333&center=true&vCenter=true&width=600&lines=Hi+I'm+Vedant+Yeola;Software+Developer;DevOps+Enthusiast" alt="Typing SVG" />
-
-  <p>🚀 <b>Software Developer</b> building reliable and efficient applications. <br> Currently pursuing <b>MSc in Computer Science</b> at SP College, Pune.</p>
-</div>
-
----
-
-### 🛠️ Tech Stack & Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Activity
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats-git-masterroot-anuraghazras-projects.vercel.app/api?username=VedantYeola&show_icons=true&theme=transparent&hide_border=true&title_color=F77333&icon_color=F77333&text_color=ffffff" alt="Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats-git-masterroot-anuraghazras-projects.vercel.app/api/top-langs?username=VedantYeola&layout=compact&theme=transparent&hide_border=true&title_color=F77333&text_color=ffffff" alt="Langs" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantYeola&theme=transparent&hide_border=true&stroke=F77333&ring=F77333&fire=F77333&currStreakLabel=F77333" alt="Streak" />
-</div>
-
----
-
-### 🐍 Contribution History
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VedantYeola/VedantYeola/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
-
----
-
-### 📫 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/vedant-yeola"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vedantyeola16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/VedantYeola"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<br>
-<p align="center"><i>"Building the future, one line of code at a time."</i></p>
-
-
-
-
-
-
-
-
-
-65efzo.gif" /></p>
