@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77333&center=true&vCenter=true&width=435&lines=Hi+I'm+Vedant+Yeola;Software+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
@@ -45,6 +45,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="35" alt="selenium logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="35" alt="cucumber logo" />
 </div>
 
 ---
@@ -74,12 +78,3 @@
 </div>
 
 <br clear="both">
-<!-- <img align="right" height="120" src="https://i.imgflip.com/65efzo.gif" /> --> 
-
-
-
-
-
-
-
-
